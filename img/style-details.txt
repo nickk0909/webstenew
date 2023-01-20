@@ -1,0 +1,3 @@
+Roboto - body
+Roboto Condensed - slider
+slider overlay colors -  1) #348ac7 - 2) #7474bf
